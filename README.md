@@ -1,6 +1,41 @@
 <h1 align="center">Welcome ( ⸝⸝•ᴗ•⸝⸝ )੭⁾⁾</h1>
 
-I'm a computer science student with a love for creating cool, old-school websites that bring a bit of nostalgia to the modern web. I enjoy building projects that spark curiosity and keep me passionate about learning and experimenting with code. 
+<div align="left">
+
+  <p>
+    I’m someone who loves turning ideas into real, working things on the internet.
+    I build fast, experiment often, and ship whatever I’m excited about — whether it’s a weird idea, 
+    a polished tool, or something I probably should’ve slept before coding.
+  </p>
+
+  <p>
+    My current tech stack lives somewhere between <strong>clean UI</strong>, 
+    <strong>smooth animations</strong>, and <strong>efficient backend logic</strong>.<br>
+    If a project lets me combine design + engineering, I’m all in.
+  </p>
+
+  <p>
+    You’ll find a handful of projects here, but they’re just the surface — 
+    I’m always working on something new behind the scenes.
+  </p>
+
+  <p>
+    <strong>When I’m not coding</strong>, you’ll catch me exploring new concepts, sketching ideas, 
+    or getting lost in whatever hobby is currently absorbing me.
+  </p>
+
+  <h3>Random facts about me:</h3>
+  <ul>
+    <li>I love learning by building.</li>
+    <li>I’m always chasing that “aha!” moment.</li>
+    <li>My creativity peaks at the most inconvenient hours.</li>
+    <li>My hobbies swing between tech, art, and a bit of chaos.</li>
+  </ul>
+
+  <p>If you like what I build, visit <a href="https://polymorpheteen.github.io/homepage/" target="_blank" rel="noopener noreferrer">my personal website</a></p>
+
+</div>
+
 
 ### I love working with:
 
@@ -11,7 +46,7 @@ I'm a computer science student with a love for creating cool, old-school website
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
   ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   
 </div>
 
@@ -20,7 +55,6 @@ I'm a computer science student with a love for creating cool, old-school website
 <div display="flex">
   
   ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-  ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
   ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
