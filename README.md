@@ -3,25 +3,15 @@
 <div align="left">
 
   <p>
-    I’m someone who loves turning ideas into real, working things on the internet.
-    I build fast, experiment often, and ship whatever I’m excited about — whether it’s a weird idea, 
-    a polished tool, or something I probably should’ve slept before coding.
+    I’m someone who loves turning ideas into real, working things on the internet. I build, experiment, and ship whatever I’m excited about. Whether it’s a weird idea, a tool, or something I probably should’ve slept before coding.
+  </p>
+  
+  <p>
+    You’ll find a handful of projects here. I’m always working on something new behind the scenes.
   </p>
 
   <p>
-    My current tech stack lives somewhere between <strong>clean UI</strong>, 
-    <strong>smooth animations</strong>, and <strong>efficient backend logic</strong>.<br>
-    If a project lets me combine design + engineering, I’m all in.
-  </p>
-
-  <p>
-    You’ll find a handful of projects here, but they’re just the surface — 
-    I’m always working on something new behind the scenes.
-  </p>
-
-  <p>
-    <strong>When I’m not coding</strong>, you’ll catch me exploring new concepts, sketching ideas, 
-    or getting lost in whatever hobby is currently absorbing me.
+    When I’m not coding, you’ll catch me exploring new concepts, sketching ideas, or getting lost in whatever hobby is currently absorbing me.
   </p>
 
   <h3>Random facts about me:</h3>
@@ -29,7 +19,7 @@
     <li>I love learning by building.</li>
     <li>I’m always chasing that “aha!” moment.</li>
     <li>My creativity peaks at the most inconvenient hours.</li>
-    <li>My hobbies swing between tech, art, and a bit of chaos.</li>
+    <li>My hobbies swing between tech, art, and a bit of gaming.</li>
   </ul>
 
   <p>If you like what I build, visit <a href="https://polymorpheteen.github.io/homepage/" target="_blank" rel="noopener noreferrer">my personal website</a></p>
